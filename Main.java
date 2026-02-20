@@ -1,7 +1,7 @@
 /*
  * Name: Trinity Hurtado, Rito Murllio
  * Date: 02/20/2026
- * Program: Course Grades Analyzer - 
+ * Program: Course Grades Analyzer -
  */
 
 import java.io.File;
