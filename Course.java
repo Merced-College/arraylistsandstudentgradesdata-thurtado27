@@ -1,5 +1,5 @@
 /*
- * Name: Trinity Hurtado, [Group Members Names]
+ * Name: Trinity Hurtado, Rito Murllio
  * Date: 02/20/2026
  * Program: Course Grades Analyzer - reads CSV grade totals and analyzes A percentages.
  */
