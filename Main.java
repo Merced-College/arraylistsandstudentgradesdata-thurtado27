@@ -1,7 +1,7 @@
 /*
  * Name: Trinity Hurtado, Rito Murllio
  * Date: 02/20/2026
- * Program: Course Grades Analyzer -
+ * Program: Course Grades Analyzer - reads CSV grade totals and analyzes A percentages.
  */
 
 import java.io.File;
@@ -98,6 +98,3 @@ public class Main {
         }
     }
 }
-
-
-
